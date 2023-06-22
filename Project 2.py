@@ -1,8 +1,3 @@
-# Ankit Anand
-# aanand35@uic.edu
-# I hereby attest that I have adhered to the rules for quizzes and projects as well as UIC’s Academic Integrity standards. Signed: Ankit Anand
-# This project was very chalenging for me because I was not able check output properly and OOP is a bit difficult to me. I tried writing code seperately and checking if the code is working and then putting it inside the orignal project code OOP.
-
 import matplotlib.pyplot as plt # Importing matplotlib
 import pylab # Importing pylab
 import numpy as np # Importing numpy
